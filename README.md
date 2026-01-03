@@ -4,13 +4,6 @@
 ```markdown
 # 🧠 RuSentiment Hybrid Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-0.100+-05998b?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Scikit--Learn-1.2+-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</p>
-
 **RuSentiment Hybrid** — это высокопроизводительная экосистема для анализа тональности текстов на русском языке. Система реализует концепцию **Smart Routing**, автоматически выбирая оптимальную модель для каждого запроса, чтобы обеспечить максимальную точность без потери скорости.
 
 ---
